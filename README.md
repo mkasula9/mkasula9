@@ -69,25 +69,6 @@ I am focused on developing production-ready skills in cloud-native data engineer
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
 
----
-
-### GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mkasula9&show_icons=true&theme=default" alt="Manisha's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkasula9&layout=compact&theme=default" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkasula9&theme=default)
-
----
-
 ### Currently Working On
 
 - Architecting end-to-end cloud-native data pipelines using **AWS Glue**, **Amazon S3**, and **Amazon Athena**
