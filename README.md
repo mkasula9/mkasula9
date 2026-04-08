@@ -1,7 +1,7 @@
 
 # Manisha Kasula
 
-### Aspiring Data Analyst and Data Engineer | Python | SQL | AWS | Machine Learning
+### Aspiring Data Analyst  | Python | SQL | AWS | Machine Learning
 
 ---
 
